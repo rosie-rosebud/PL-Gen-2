@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<head>
+  <title>Professional Learning Generator</title>
+  <!-- Link to the CSS file -->
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <h1>Welcome to the Professional Learning Generator</h1>
+  <h2>Your personal learning buddy.</h2>
+  <!-- Div to make the dropdown and text all on the same line -->
+  <div class="flex-container">
+    <p>I have</p>
+    <!-- Time dropdown button -->
+    <select name="timeSelect" id="timeSelect">
+      <option value="5 minutes">5 minutes</option>
+      <option value="15 minutes">15 minutes</option>
+      <option value="30 min minutes">30 minutes</option>
+    </select>
+    <p>to spare today, and I want to know more about how to implement</p>
+    <!-- Affordance dropdown button -->
+    <select name="affordanceSelect" id="affordanceSelect">
+      <option value="ubiquitous learning">ubiquitous learning</option>
+      <option value="active knowledge making">active knowledge making</option>
+      <option value="multimodal meaning">multimodal meaning</option>
+      <option value="recursive feedback">recursive feedback</option>
+      <option value="collaborative intelligence">collaborative intelligence</option>
+      <option value="metacognition">metacognition</option>
+      <option value="differentiated learning">differentiated learning</option>
+    </select>
+    <p>in my</p>
+    <!-- Age dropdown button -->
+    <select name="ageSelect" id="ageSelect">
+      <option value="early years">early years</option>
+      <option value="primary">primary school</option>
+      <option value="high school">high school</option>
+      <option value="IB">IB</option>
+    </select>
+    <p>classroom.</p>
+  </div>
+  
+  <!-- Submit button -->
+  <button id="submit">Submit</button>
+  <!-- This div is hidden unless you click submit -->
+  <div id="detailsDiv" style="display:none;" class="details_outcome">
+    <!-- This displays the user's choices -->
+    <p id="choices"></p>
+  </div>
+  <!-- This div is for recommendations -->
+  <div id="recommendationsDiv" style="display:none;" class="details_outcome"></div>
+    <!-- Link to the JavaScript file -->
+  <script src="script.js"></script>
+</body>
+</html>

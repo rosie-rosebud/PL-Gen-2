@@ -1,0 +1,67 @@
+/* Page-wide styling */
+body {
+  font-family: Didot, serif;
+  font-size: 20px;
+  background-color: #fff8c9;
+  color: #eb8f34;
+}
+
+/* Heading Styling */
+h1 {
+  font-size: 300%;
+  color: #eb8f34;
+}
+h2 {
+  font-size: 150%;
+  color: #eb8f34;
+  font-weight: bold;
+  font-style: italic;
+}
+h3 {
+  font-size: 150%;
+  color: #eb8f34;
+}
+
+/* Styling for the div dropdown */
+.flex-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* Style for the dropdown options */
+select {
+  appearance: none;
+  background: transparent;
+  border: none;
+  font-family: inherit;
+  font-size: inherit;
+  color: inherit;
+  cursor: pointer;
+  outline: none;
+  transition: font-weight 0.3s ease;
+}
+
+/* Style for the dropdown options on hover */
+select:hover {
+  font-weight: bold;
+}
+
+/* Style for the dropdown box when open */
+select:focus {
+/* Add a border when the dropdown is open */
+  border: 1px solid #ccc; 
+}
+
+.dropdown-container select {
+  appearance: none; 
+  border: none; 
+  background: transparent; 
+  outline: none; 
+  cursor: pointer; 
+  font-size: inherit; 
+}
+
+.dropdown-container select option {
+  background: transparent; 
+  border

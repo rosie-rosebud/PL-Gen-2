@@ -1,0 +1,124 @@
+{
+  "5 minutes": {
+    "ubiquitous learning": {
+      "early years": [
+        {"text": "Explore this quick video on Ubiquitous Learning for early years students.", "url": "https://www.youtube.com/embed/6wUb0qiuGd0"},
+        {"text": "Check out this short video to enhance your understanding of Ubiquitous Learning in early years.", "url": "https://www.youtube.com/embed/u0612ifE4GE"}
+      ],
+      "primary": [
+        {"text": "Consider this brief video for insights into Ubiquitous Learning in primary classrooms.", "url": "https://www.youtube.com/embed/LTEH-6a6kMo"},
+        {"text": "Dive into this recommended video for a quick overview of Ubiquitous Learning in primary education.", "url": "https://www.youtube.com/embed/m_55kgyRjqQ"}
+      ],
+      "high school": [
+        {"text": "Explore this concise video on Ubiquitous Learning for high school students.", "url": "https://www.youtube.com/embed/XhzIYo2e5kY"},
+        {"text": "Check out this short video to deepen your understanding of Ubiquitous Learning in high school.", "url": "https://www.youtube.com/embed/-hbQda-6GFU"}
+      ],
+      "IB": [
+        {"text": "Consider this brief video for insights into Ubiquitous Learning in IB classrooms.", "url": "https://www.youtube.com/embed/XhzIYo2e5kY"},
+        {"text": "Dive into this recommended video for a quick overview of Ubiquitous Learning in the IB curriculum.", "url": "https://www.youtube.com/embed/-hbQda-6GFU"}
+      ]
+    },
+    "active knowledge making": {
+      "early years": [
+        {"text": "Enhance your understanding with this insightful video on Active Knowledge Making for early years students.", "url": "https://www.youtube.com/P5TsL8HL4kg"},
+        {"text": "Consider exploring this video to support your learning of Active Knowledge Making in early years.", "url": "https://www.youtube.com/embed/tLiP4b-TPCA"} 
+      ],
+      "primary": [
+        {"text": "Check out this video for a deeper understanding of Active Knowledge Making in primary classrooms.", "url": "https://www.youtube.com/embed/bXfwYmJY3RE"},
+        {"text": "Why not try this video for insights into Active Knowledge Making in primary education?", "url": "https://www.youtube.com/embed/zm-U5tYrCAw"} 
+      ],
+      "high school": [
+        {"text": "Explore this video to deepen your understanding of Active Knowledge Making in high school.", "url": "https://www.youtube.com/embed/zm-U5tYrCAw"},
+        {"text": "Dive into this recommended video for insights into Active Knowledge Making in high school classrooms.", "url": "https://www.youtube.com/embed/j6uJ47ktWk4"} 
+      ],
+      "IB": [
+        {"text": "Consider this video for a comprehensive understanding of Active Knowledge Making in IB classrooms.", "url": "https://www.youtube.com/embed/zm-U5tYrCAw"},
+        {"text": "Why not try this video to support your learning of Active Knowledge Making in the IB curriculum?", "url": "https://www.youtube.com/embed/j6uJ47ktWk4"} 
+      ]
+    },
+    "multimodal meaning": {
+      "early years": [
+        {"text": "Dive into this recommended video for a deeper insight into Multimodal Meaning for early years students.", "url": "https://www.youtube.com/embed/?si=oOQZjCXJgdYxR0j7"},
+        {"text": "Enhance your understanding with this insightful video on Multimodal Meaning in early years.", "url": "https://www.youtube.com/embed/?si=mgQMlsJH1LaDoSO-"} 
+      ],
+      "primary": [
+        {"text": "Consider exploring this video for a quick overview of Multimodal Meaning in primary education.", "url": "https://www.youtube.com/embed/C8tuXxCA1PQ"},
+        {"text": "Check out this short video to deepen your understanding of Multimodal Meaning in primary classrooms.", "url": "https://www.youtube.com/embed/bXfwYmJY3RE"} 
+      ],
+      "high school": [
+        {"text": "Why not try this video for insights into Multimodal Meaning in high school classrooms.", "url": "https://www.youtube.com/embed/4nwQ36m9aDE"},
+        {"text": "Explore this concise video on Multimodal Meaning for high school students.", "url": "https://www.youtube.com/embed/?si=mgQMlsJH1LaDoSO-"} 
+      ],
+      "IB": [
+        {"text": "Check out this short video to deepen your understanding of Multimodal Meaning in the IB curriculum.", "url": "https://www.youtube.com/embed/?si=oOQZjCXJgdYxR0j7"},
+        {"text": "Consider this brief video for insights into Multimodal Meaning in IB classrooms.", "url": "https://www.youtube.com/embed/bXfwYmJY3RE"} 
+      ]
+    },
+       "metacognition": {
+      "early years": [
+        {"text": "Dive into this recommended video for a deeper insight into metacognition for early years students.", "url": "https://www.youtube.com/embed/5b60ypZ8Db4"},
+        {"text": "Enhance your understanding with this insightful video on  metacognition in early years.", "url": "https://www.youtube.com/embed/HHm5DzlU9as"} 
+      ],
+      "primary": [
+        {"text": "Consider exploring this video for a quick overview of metacognition in primary education.", "url": "https://www.youtube.com/embed/GvfZ6GIWH-8"},
+        {"text": "Check out this short video to deepen your understanding of metacognition in primary classrooms.", "url": "https://www.youtube.com/embed/BOJ6MdTbe1k"} 
+      ],
+      "high school": [
+        {"text": "Why not try this video for insights into metacognition in high school classrooms.", "url": "https://www.youtube.com/embed/qtymMcgVW_k"},
+        {"text": "Explore this concise video on metacognition for high school students.", "url": "https://www.youtube.com/embed/lhkPRTX8dc8"} 
+      ],
+      "IB": [
+        {"text": "Check out this short video to deepen your understanding of metacognition in the IB curriculum.", "url": "https://www.youtube.com/embed/qtymMcgVW_k"},
+        {"text": "Consider this brief video for insights into metacognition in IB classrooms.", "url": "https://www.youtube.com/embed/lhkPRTX8dc8"} 
+      ]
+    },
+    "differentiated learning": {
+      "early years": [
+        {"text": "Explore this quick video on Differentiated Learning for early years students.", "url": "https://www.youtube.com/embed/6z3kH490uMY"},
+        {"text": "Check out this short video to enhance your understanding of Differentiated Learning in early years.", "url": "https://www.youtube.com/embed/Kg38A1ggYiE"}
+      ],
+      "primary": [
+        {"text": "Consider this brief video for insights into Differentiated Learning in primary classrooms.", "url": "https://www.youtube.com/embed/NSAvxEVbinU"},
+        {"text": "Dive into this recommended video for a quick overview of Differentiated Learning in primary education.", "url": "https://www.youtube.com/embed/Kg38A1ggYiE"}
+      ],
+      "high school": [
+        {"text": "Explore this concise video on Differentiated Learning for high school students.", "url": "https://www.youtube.com/embed/fqpDESWtT-0"},
+        {"text": "Check out this short video to deepen your understanding of Differentiated Learning in high school.", "url": "https://www.youtube.com/embed/tIT5d-klYmU"}
+      ],
+      "IB": [
+        {"text": "Consider this brief video for insights into Differentiated Learning in IB classrooms.", "url": "https://www.youtube.com/embed/tIT5d-klYmU"},
+        {"text": "Dive into this recommended video for a quick overview of Differentiated Learning in the IB curriculum.", "url": "https://www.youtube.com/embed/x4odUJ73_wo"}
+      ]
+    },
+    "recursive feedback": {
+  "early years": [
+    {"text": "Enhance your understanding with this insightful video on Recursive Feedback for early years students.", "url": "https://www.youtube.com/embed/17MYZDt8fAU"},
+    {"text": "Consider exploring this video to support your learning of Recursive Feedback in early years.", "url": "https://www.youtube.com/embed/3Q_G7PlR5sY"}
+  ],
+  "primary": [
+    {"text": "Check out this video for a deeper understanding of Recursive Feedback in primary classrooms.", "url": "https://www.youtube.com/embed/RDk851z9IW0"},
+    {"text": "Why not try this video for insights into Recursive Feedback in primary education?", "url": "https://www.youtube.com/embed/bXfwYmJY3RE"}
+  ],
+  "high school": [
+    {"text": "Explore this video to deepen your understanding of Recursive Feedback in high school.", "url": "https://www.youtube.com/embed/bXfwYmJY3RE"},
+    {"text": "Dive into this recommended video for insights into Recursive Feedback in high school classrooms.", "url": "https://www.youtube.com/embed/rfW3Vw77AIc"}
+  ],
+  "IB": [
+    {"text": "Consider this video for a comprehensive understanding of Recursive Feedback in IB classrooms.", "url": "https://www.youtube.com/embed/FMshh7LxZPs"},
+    {"text": "Why not try this video to support your learning of Recursive Feedback in the IB curriculum?", "url": "https://www.youtube.com/embed/rfW3Vw77AIc"}
+  ]
+},
+"collaborative intelligence": {
+ 
+  "primary": [
+    {"text": "Consider exploring this video for a quick overview of Collaborative Intelligence in primary education.", "url": "https://www.youtube.com/embed/bXfwYmJY3RE"},
+    {"text": "Check out this short video to deepen your understanding of Collaborative Intelligence in primary classrooms.", "url": "https://www.youtube.com/embed/"}
+  ],
+  "high school": [
+    {"text": "Why not try this video for insights into Collaborative Intelligence in high school classrooms.", "url": "https://www.youtube.com/embed/bXfwYmJY3RE"},
+    {"text": "Explore this concise video on Collaborative Intelligence for high school students.", "url": "https://www.youtube.com/embed/zk_2vMpthpA"}
+  ],
+ 
+}
+}
+}
